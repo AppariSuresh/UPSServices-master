@@ -7,7 +7,7 @@ namespace RMG.Controllers
 {
     [Route("api/[controller]")]
     public class AssignProjectController : Controller
-    {
+    { 
     
 
         [HttpGet("[action]")]
